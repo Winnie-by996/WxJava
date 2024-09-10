@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * 直播大屏实体
  *
- * @author @author <a href="https://github.com/Winnie-by996">Winnie</a>
+ * @author <a href="https://github.com/Winnie-by996">Winnie</a>
  */
 @Data
 @NoArgsConstructor
