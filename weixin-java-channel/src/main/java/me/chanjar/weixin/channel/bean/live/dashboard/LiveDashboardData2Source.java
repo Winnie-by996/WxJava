@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 直播流量渠道
  *
- * @author @author <a href="https://github.com/Winnie-by996">Winnie</a>
+ * @author <a href="https://github.com/Winnie-by996">Winnie</a>
  */
 @Data
 @NoArgsConstructor
