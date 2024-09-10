@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 直播观众画像
  *
- * @author @author <a href="https://github.com/Winnie-by996">Winnie</a>
+ * @author <a href="https://github.com/Winnie-by996">Winnie</a>
  */
 @Data
 @NoArgsConstructor
